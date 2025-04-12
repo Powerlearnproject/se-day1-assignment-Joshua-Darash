@@ -1,9 +1,9 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19147169&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 
-#Part 1: Introduction to Software Engineering
+## Part 1: Introduction to Software Engineering
 
-##1. Explain what software engineering is and discuss its importance in the technology industry
+### 1. Explain what software engineering is and discuss its importance in the technology industry
 software engineering is a branch of computer science used for deeloping, testing and maintaining software.
 Its importances are;
 -Reliability: it ensures software performs as expected without bias especially for critical applications like healthcare ,finance.
@@ -12,13 +12,13 @@ Its importances are;
 -Security: implements protection practice like authentication, authorization and encryption to secure users information.
 
 
-##2. Identify and describe at least three key milestones in the evolution of software engineering.  
+### 2. Identify and describe at least three key milestones in the evolution of software engineering.  
 -Mastering complexity
 -Mastering process
 -Mastering machine
 
 
-##3. List and briefly explain the phases of the Software Development Life Cycle.
+### 3. List and briefly explain the phases of the Software Development Life Cycle.
 -Planning: identify the software requirement or purpose and scope.
 -Requirement analysis: identify the final user specification.
 -Design: building the framework.
@@ -26,7 +26,7 @@ Its importances are;
 -Testing: examine the software for any bugs and glitches
 
 
-##4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+### 4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 waterfall methodology: Linear and sequential, each phase is completed before moving on.
 - There is Low flexibility, changes are hard to incorporate once a phase is complete.
 - Customer feedback comes late, after the product is developed.
@@ -38,7 +38,7 @@ Aagile methodology: Iterative and incremental, with multiple cycles (sprints).
 - Testing is continuous and done after each iteration.
 
 
-##5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+### 5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software Developer:
 - Developing applications,programs and systems using programming languages and frameworks.
 - Maintaining and updating software to keep it functional.
@@ -60,7 +60,7 @@ Project Manager:
 - Deliver the complete software to the client and regularly check its performance.
 
 
-##6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+### 6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 An integrated development environment (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode)
 Importances of IDE are:
 - Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many intelligent features for automatically writing or editing the source code.
@@ -79,7 +79,7 @@ Importances of VCS are:
 - Error Recovery: Allows reverting to previous versions if new changes introduce errors
 
  
-##7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+### 7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 - Rapid technological advancement places considerable pressure on software engineers to stay current.
 Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. -
 
@@ -99,7 +99,7 @@ Solution: research ways to defend against hacking, malware, phishing, insider an
 Solution: Use scalable architecture, Emphasize reliability.
 
 
-##8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+### 8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 - Unit tests: are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
 
 - Integration tests: verify that different modules or services used by your application work well together.
@@ -113,9 +113,9 @@ Whether the software meets the needs of the end-user and is ready for deployment
 
 
 
-#Part 2: Introduction to AI and Prompt Engineering
+## Part 2: Introduction to AI and Prompt Engineering
 
-##1. Define prompt engineering and discuss its importance in interacting with AI models.
+### 1. Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
 
 It's Importance are;
@@ -124,7 +124,7 @@ It's Importance are;
 - Developer control: Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
 
 
-##2. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+### 2. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vagu prompt: Draw a picture of a person
 
 Improved prompt: Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
